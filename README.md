@@ -12,7 +12,6 @@ Hello there, I'm Angel Rodriguez, a front-end developer with a background in cus
   <a href="https://www.linkedin.com/in/ardzcodes/" alt="Linkedin" title="Linkedin"><img width="32px" src="https://img.icons8.com/material/48/null/linkedin--v1.png"/></a>
   
 </p>
-<br/>
 
 ### Languages and Tools:
 
