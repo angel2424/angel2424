@@ -6,7 +6,7 @@ Hello there, I'm Angel Rodriguez, a front-end developer with a background in cus
 ### Connect with me:
 
 <p>
-  <a target="_blank" href="https://ardzcodes.tech"><img width="32px" alt="Portfolio" title="Portfolio" src="https://img.icons8.com/fluency-systems-regular/48/null/internet.png"/></a>  
+  <a target='_blank' href="https://ardzcodes.tech"><img width="32px" alt="Portfolio" title="Portfolio" src="https://img.icons8.com/fluency-systems-regular/48/null/internet.png"/></a>  
   <a href="https://www.instagram.com/ardzcodes24/"><img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/material/48/null/instagram-new--v1.png"/></a>
   <a href="https://twitter.com/ardzcodes24"><img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/material/48/null/twitter--v2.png"/></a>
   <a href="https://www.linkedin.com/in/ardzcodes/" alt="Linkedin" title="Linkedin"><img width="32px" src="https://img.icons8.com/material/48/null/linkedin--v1.png"/></a>
