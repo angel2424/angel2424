@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Your Name]
+# 👋 Hi, I’m Angel Rodriguez
 
 **Frontend Developer / UI Engineer** passionate about building **scalable, user-focused web applications** with clean code and strong design systems.
 
@@ -44,7 +44,7 @@
 - **[Municipio de Allende Website](https://allendecoahuila.com)**  
   *Official government site for Allende, Coahuila — responsive, accessible, and focused on public services.*  
 
-- **[DevWorks Studio Projects](https://devworksstudio.site)**  
+- **[DevWorks Studio | Agency](https://devworksstudio.site)**  
   *Websites and landing pages for local businesses and professionals (Astro, Tailwind, GSAP).*  
 
 ## 📫 Connect With Me
