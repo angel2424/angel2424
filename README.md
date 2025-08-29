@@ -1,25 +1,50 @@
-# Hi 👋, I'm Angel Rodriguez
-**`A front-end developer based in Coahuila, Mexico`**
+# 👋 Hi, I’m [Your Name]
 
-Hello there, I'm Angel Rodriguez, a front-end developer with a background in customer service. I enjoy solving problems, that's why I fell in love with web development. I have experience developing two freelance projects for a local business and several personal projects (You can check them out in the portfolio page). I am currently looking for a front-end developer position where I can expand my knowledge in development and meet people that are as passionate as I am in tech 😊.
+**Frontend Developer / UI Engineer** passionate about building **scalable, user-focused web applications** with clean code and strong design systems.
 
-### Connect with me:
+---
 
-<p>
-  <a target='_blank' href="https://ardzcodes.tech"><img width="32px" alt="Portfolio" title="Portfolio" src="https://img.icons8.com/fluency-systems-regular/48/null/internet.png"/></a>  
-  <a href="https://www.instagram.com/ardzcodes24/"><img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/material/48/null/instagram-new--v1.png"/></a>
-  <a href="https://twitter.com/ardzcodes24"><img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/material/48/null/twitter--v2.png"/></a>
-  <a href="https://www.linkedin.com/in/ardzcodes/" alt="Linkedin" title="Linkedin"><img width="32px" src="https://img.icons8.com/material/48/null/linkedin--v1.png"/></a>
-  
-</p>
+## 💻 About Me
 
-### Languages and Tools:
+- 🌍 Based in **Piedras Negras, MX**  
+- 💼 Currently at **CIMA Group** — building dashboards, finance platforms, and design systems serving **thousands of users**  
+- 🚀 Founder of **DevWorks Studio**, delivering websites for small businesses, professionals, and local government  
+- 📖 Working on my indie project **Bible Display App** — a Next.js + Supabase SaaS platform for small churches  
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+---
 
+## ⚡ Tech Stack
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)  
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)  
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=fff)  
+![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=fff)  
+![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=fff)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)  
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=fff)  
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=fff)  
+![Zustand](https://img.shields.io/badge/-Zustand-000?style=flat&logo=react&logoColor=fff)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff)  
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=fff)  
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel&logoColor=fff)  
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=fff)  
+
+*Currently learning:* **Testing with Jest, Cypress, Playwright** | Expanding into **system design & full-stack development**  
+
+---
+
+## 🔨 Featured Projects
+
+- **[Bible Display App](https://bible-displa.devworksstudio.site)**  
+  *Next.js + Supabase platform for small churches to display verses on screen, with auth, roles, and real-time updates.*  
+
+- **[Municipio de Allende Website](https://allendecoahuila.com)**  
+  *Official government site for Allende, Coahuila — responsive, accessible, and focused on public services.*  
+
+- **[DevWorks Studio Projects](https://devworksstudio.site)**  
+  *Websites and landing pages for local businesses and professionals (Astro, Tailwind, GSAP).*  
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/ardzcodes/)  
+- [Portfolio](https://portfolio.devwroksstudio.site)  
