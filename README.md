@@ -49,5 +49,5 @@
 
 ## 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/ardzcodes/)  
+- [LinkedIn](https://www.linkedin.com/in/ardzcodes/)  
 - [Portfolio](https://portfolio.devwroksstudio.site)  
