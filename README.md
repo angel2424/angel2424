@@ -15,19 +15,22 @@
 
 ## ⚡ Tech Stack
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)  
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)  
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=fff)  
-![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=fff)  
-![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=fff)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)  
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=fff)  
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=fff)  
-![Zustand](https://img.shields.io/badge/-Zustand-000?style=flat&logo=react&logoColor=fff)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff)  
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=fff)  
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel&logoColor=fff)  
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=fff)  
+<p>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js" />
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Zustand-000?style=flat&logo=react&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=fff" />
+</p>
+
 
 *Currently learning:* **Testing with Jest, Cypress, Playwright** | Expanding into **system design & full-stack development**  
 
